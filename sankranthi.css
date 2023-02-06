@@ -1,0 +1,75 @@
+.bgimg{
+	background-image:url(https://assets.thehansindia.com/h-upload/2020/01/13/253566-sankrantiii.webp) ;
+	height:35vh ;
+	background-size: cover;
+}
+
+.head{
+	color: white;
+    font-size: 40px;
+    padding-top: 120px;
+    font-weight: bold;
+}
+.navi{
+	background-image: url(https://images.news18.com/ibnkhabar/uploads/2022/07/Anupama-Parameswaran-Adorable-look-in-Blue-Saree.jpg);
+	background-size: cover;
+	height: 600px;
+	
+}
+.imageres{
+    height: 80px;
+    width: 80px;
+}
+.sankranthicard{
+	background-color: white;
+	width:200px;
+	border-radius: 15px;
+	padding: 5px;
+	height: 220px;
+	text-align: center;
+	margin: 20px;
+}
+.imagelav{
+	height: 80px;
+	width: 80px;
+}
+.lav{
+	background-color: white;
+	width:200px;
+	border-radius: 15px;
+	padding: 5px;
+	height: 220px;
+	text-align: center;
+	margin: 20px;
+
+}
+.imagesharf{
+   height: 80px;
+    width: 80px;
+}
+.shraf{
+	background-color: white;
+	width:200px;
+	border-radius: 15px;
+	padding: 5px;
+	height: 220px;
+	text-align: center;
+	margin: 20px;
+
+}
+.imageanu{
+   height: 80px;
+    width: 80px;
+}
+.anu{
+	background-color: white;
+	width:200px;
+	border-radius: 15px;
+	padding: 5px;
+	height: 220px;
+	text-align: center;
+	margin: 20px;
+}
+.btn{
+ color: white;
+}
